@@ -13,7 +13,7 @@ Detection is a file from Pytorch Mask R-CNN tutorial that contains utils functio
 Qualitative performance: the MASK R-CNN model showed good performance with mean average precision (mAP) of 39.03%, F1 score at 0.7 IoU of 62.86%, and dice score of 81.43% in limited training epochs. This project demonstrated the great potential of Mask R-CNN in automatic nucleus segmentation.
 Quantitative performance (demos): 
 Fluorescence image:
-<img src="./fluorescence_instanceSeg.png" alt="alt text" width="1000" height="250">
+<img src="./fluorescence_instanceSeg.png" alt="alt text" width="1000" height="350">
 H&E image:
-<img src="./h&e_instanceSeg.png" alt="alt text" width="1000" height="250">
+<img src="./h&e_instanceSeg.png" alt="alt text" width="1000" height="350">
 
