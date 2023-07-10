@@ -10,8 +10,9 @@ nucleus_seg_pytorch.ipynb contains the main codes for data loading, data preproc
 Detection is a file from Pytorch Mask R-CNN tutorial that contains utils functions for model training (https://pytorch.org/vision/main/models/mask_rcnn.html).
 
 ## Performance
-Qualitative performance: the MASK R-CNN model showed good performance with mean average precision (mAP) of 39.03%, F1 score at 0.7 IoU of 62.86%, and dice score of 81.43% in limited training epochs. This project demonstrated the great potential of Mask R-CNN in automatic nucleus segmentation.<br>
-Quantitative performance (demos): <br>
+**Qualitative performance** <br> 
+The MASK R-CNN model showed good performance with mean average precision (mAP) of 39.03%, F1 score at 0.7 IoU of 62.86%, and dice score of 81.43% in limited training epochs. This project demonstrated the great potential of Mask R-CNN in automatic nucleus segmentation.<br>
+**Quantitative performance (demos)** <br>
 Fluorescence image:
 <img src="./fluorescence_instanceSeg.png" alt="alt text" width="1000" height="350">
 H&E image:
